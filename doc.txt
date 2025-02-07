@@ -1,0 +1,2 @@
+{"?save-coord":  "Creer un warp a la coordonnee du joueur"}
+{"?tp-coord": "Se teleporter a un warp"}
